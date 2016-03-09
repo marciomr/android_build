@@ -35,14 +35,12 @@ PRODUCT_PACKAGES := \
 	libWnnJpnDic \
 	LiveWallpapersPicker \
 	Mms \
-	Music \
 	OpenWnn \
 	Protips \
 	rild \
 	SdkSetup \
 	SmokeTest \
 	SmokeTestApp \
-	SoftKeyboard \
 	sqlite3 \
 	SystemUI \
 	WidgetPreview
